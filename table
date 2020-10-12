@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="1">
+        <tr>
+            <th>Название</th>
+            <th>Доля %</th>
+        </tr>
+    <tr><td>Goggle Chrome</td><td>39.82</td></tr>
+    <tr><td>Яндекс Браузер</td><td>21.13</td></tr>
+    <tr><td>Safari</td><td>10.43</td></tr>
+    <tr><td>Opera</td><td>4.91</td></tr>
+    <tr><td>Android Browser</td><td>2.86</td></tr>
+    <tr><td>Firefox</td><td>2.78</td></tr>
+    <tr><td>Samsung Internet</td><td>2.48</td></tr>
+    <tr><td>MIUI browser</td><td>1.74</td></tr>
+    <tr><td>Edge</td><td>1.38</td></tr>
+    <tr><td>Internet Explorer</td><td>0.79</td></tr>
+    <tr><td>Uc Browser</td><td>0.22</td></tr>
+    <tr><td>Amigo</td><td>0.14</td></tr>
+    <tr><td>Остальные</td><td>11.3</td></tr>
+    </table>
+</body>
+</html>
